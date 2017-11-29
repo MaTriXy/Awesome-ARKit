@@ -14,7 +14,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
-
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
@@ -57,9 +56,21 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) - Twilio Video chat with AR in scene
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) - Playback videos using ARKit and AVFoundation📺
 * [ARVoxelKit](https://github.com/VoxxxelAR/ARVoxelKit) - Lightweight Framework for Voxel graphic.
+* [ARKitSpitfire](https://github.com/chriswebb09/ARKitSpitfire) - AR Spitfire that can orient itself towards then fly to geocoordinates.
+* [ARInvaders](https://github.com/aivantg/ar-invaders) - A port of Space Invaders using ARKit. Aliens will fly and chase you around your home. Can you shoot them before they shoot you?
+* [ARKitAirport](https://github.com/chriswebb09/ARKitAirport) - Tap on map, plane will take off from an AR runway and fly to location you tapped.
+* [AR-FlatWeatherDiplay](https://github.com/nagam11/ARKit-Projects/tree/master/Project%2002%20-%20ARFlatWeather) - A live flat Weather Dashboard based on the user's location. ☀️⛈
+* [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) - Visualize and discover the planes flying around you ✈️
+* [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
+* [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
+* [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
+
+
 # AppStore
 
+* [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
+* [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
 * [Night Sky](https://itunes.apple.com/app/the-night-sky/id475772902?mt=8) - Night Sky is a powerful augmented reality personal planetarium.
 * [AR Dragon](https://itunes.apple.com/us/app/ar-dragon/id1270046606?mt=8) - Augmented Reality Virtual Pet Simulator!
 * [MyTools · My AR Light & Ruler](https://itunes.apple.com/us/app/%E6%88%91%E7%9A%84%E6%89%8B%E7%94%B5%E5%92%8C%E5%B0%BA%E5%AD%90-my-light-ruler/id557839389?mt=8) - 「My Ruler and Light」is a useful and delicately designed toolbox App for you.
@@ -82,6 +93,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
+* [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
+* [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
 
 # Tutorials
 
@@ -102,6 +115,10 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 * [ARKit Adventures
 Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/aarkit-adventures-697dfbe7779e)
 * [Building an AR app with ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
+* [Build ARKit Application with Unity](https://medium.com/@davidguandev/build-arkit-application-with-unity-10af4a5e3b05)
+* [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
+* [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
+* [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
 
 # Resources
 
