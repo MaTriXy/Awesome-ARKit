@@ -65,6 +65,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
 * [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
+* [Findme](https://github.com/mmoaay/Findme) – Using ARKit to find me.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – This library uses ARKit Face Tracking in order to catch a user's smile.
 
 # AppStore
 
