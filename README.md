@@ -21,6 +21,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) - ARKit based tic-tac-toe with a decent AI opponent
 * [ARShooter](https://github.com/farice/ARShooter) - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
+* [ARStack](https://github.com/XanderXu/ARStack) - AR version Stack game with ARKit in Swift
 * [ARRubiks](https://github.com/Nicholas714/ARRubiks) - A Rubik's Cube that you can put on a table
 * [ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARText](https://github.com/markz-nyc/ARText) - ARText render 3D Text/caption in real world by using ARKit
@@ -67,6 +68,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
 * [Findme](https://github.com/mmoaay/Findme) – Using ARKit to find me.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – This library uses ARKit Face Tracking in order to catch a user's smile.
+* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - Create an environment map from the camera feed to achieve realistic lighting and reflections.
+* [ARBottleJump](https://github.com/songkuixi/ARBottleJump) - An ARKit version of WeChat Bottle Jump game.
+* [ARKit-Virtual-Backdrop](https://github.com/montaguegabe/arkit-virtual-backdrop) - Superimpose your image into a 3D rendered world using Metal.
 
 # AppStore
 
