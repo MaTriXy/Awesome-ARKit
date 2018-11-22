@@ -14,6 +14,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+* [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
@@ -71,6 +72,13 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - Create an environment map from the camera feed to achieve realistic lighting and reflections.
 * [ARBottleJump](https://github.com/songkuixi/ARBottleJump) - An ARKit version of WeChat Bottle Jump game.
 * [ARKit-Virtual-Backdrop](https://github.com/montaguegabe/arkit-virtual-backdrop) - Superimpose your image into a 3D rendered world using Metal.
+* [Mokapp2017_World](https://github.com/gali8/Mokapp2017_World) - With Mokapp2017 World you can explore the world around you, play a video, put objects in front of you or to a plane (with gravity), play Space Invaders 3D.
+* [Mokapp2017_Face](https://github.com/gali8/Mokapp2017_Face) - With Mokapp2017 Face you can put objects and particles on your face.
+* [ARBubble-blower](https://github.com/AppPear/bubbleblower) - For creating stunning soap bubbles in your AR app, nothing is more fun than to pop bubbles in AR.
+* [WallStreaming](https://github.com/Bersaelor/WallStreaming) - Project demonstrating vertical surface detection and streaming/playing video on a virtual surface.
+* [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
+* [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 
 # AppStore
 
@@ -99,10 +107,18 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
+* [Wavy Music](https://itunes.apple.com/us/app/wavy-music/id1366917156?ls=1&mt=8) - Experience music in augmented reality.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
 * [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
+* [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
+* [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
+* [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
+* [AR Candle](https://itunes.apple.com/us/app/ar%E7%A5%88%E7%A6%8F/id1346647915?mt=8) - AR Candle is an augmented reality candle blessing app.
+* [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
+* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
+* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 
 # Tutorials
 
@@ -128,12 +144,15 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
 * [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
+* [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 
 # Resources
 
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
+* [Udemy Course](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=THXEMMANUEL) - ARKit - Beginner to Professional in Swift 4 and iOS 11
+* [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
 
 # Contributing
 
