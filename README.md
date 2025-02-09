@@ -17,7 +17,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Projects
 
-* [Baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit 
+* [Baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
 * [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
 * [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
@@ -101,7 +101,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR-Quick-Look](https://github.com/anand2nigam/AR-Quick-Look) - Rendering any 3d model in Augmented Reality using AR-Quick-Look, recently launched by Apple to view or share your 3d model.
 * [ARInstagram](https://github.com/nativ18/ARInstagram) - Placing 2D images on walls and applying Instagram-like filters on them.
 * [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) - Apply metal vertex and fragment shaders to real world surfaces.
-
+* [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
+* [ARCarGuidePoC](https://github.com/eldare/ARCarGuidePoC) - Detects parts under a hood of a motor vehicle, and tracks the detected parts in AR.
+* [Blood cells AR](https://github.com/andrelucassvt/Blood-Cells-AR) - discover cells in augmented reality(Using Ar Quick look)
 
 # AppStore
 
@@ -144,6 +146,12 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Rikskit](https://itunes.apple.com/us/app/riksroom/id1443213388?mt=8) - Multiplayer AR space. Draw, place 3D models from Google Poly, add images, add text, and play a mini-game in Riksroom.
 * [AR Search](https://itunes.apple.com/us/app/ar-search/id1460715687) - This app lets you search in your physical surroundings for any printed text and track the results in real-time, to give you the best search experience possible.
 * [In The Walls](https://apps.apple.com/us/app/id1522257130) - Uses real time face tracking and AR to put your face in any real world wall.
+* [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iOS app to explore Thingiverse using AR. You can also share AR models as usdz files. 
+* [watAR](https://apps.apple.com/us/app/watar/id1546980861) - Distort any real world surface with wave and raindrop effects.
+* [Paint the City](https://apps.apple.com/us/app/paint-the-city/id1535585612) - Create street art in augmented reality and see it appear on the map.
+* [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) - Transforms an iPhone into an affordable AR headset.
+* [Blood cells AR](https://apps.apple.com/us/app/blood-cells-ar/id1661689851) - discover cells in augmented reality
+* [Graphite 3D](https://apps.apple.com/us/app/graphite-3d/id1523391511) - A collaborative drawing tool for modeling precise shapes in real spaces.
 
 # Tutorials
 
@@ -172,14 +180,16 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 * [How to implement Apple AR-Quick-Look by Example](https://medium.com/better-programming/how-to-implement-ar-quicklook-in-your-app-18d513a13b9f)
 * [What is USDZ, Apple's 3d model format for ARKit and how to convert your existing model into usdz by Example](https://medium.com/better-programming/what-is-usdz-and-how-to-convert-your-3d-model-to-usdz-dac2e6205036)
+* [iOS&Swift AR tutorials on raywenderlich.com](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&q=AR&sort_order=relevance)
 
 # Resources
 
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
-* [Udemy Course](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=THXEMMANUEL) - ARKit - Beginner to Professional in Swift 4 and iOS 11
+* [Udemy Courses](https://www.udemy.com/courses/search/?q=arkit) - ARKit courses on Udemy
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for experimenting with AR and replicating Microsoft Hololens. 
 
 # Contributing
 
